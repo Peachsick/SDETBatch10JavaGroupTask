@@ -17,7 +17,7 @@ public class Part5 {
 			isPrime = false;
 		}
 		System.out.println("is "+number + " a prime number? " + isPrime);
-
+// new change
 	}
 
 }
